@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello there 👋
 
+I shoot troubles. Usually ones I made myself.
 <!--
 **harakka/harakka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
